@@ -7,3 +7,4 @@ for num in range(A-2):
     y=x*y
 print(y)
 #y=XのA乗
+#test
